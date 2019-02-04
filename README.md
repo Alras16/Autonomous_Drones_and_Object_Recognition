@@ -1,2 +1,2 @@
-# Autonomous_Drones_and_Object_Recognition
+# Autonomous Drones & Object Recognition
 Bachelor Project
