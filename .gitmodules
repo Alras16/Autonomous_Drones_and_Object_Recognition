@@ -1,3 +1,4 @@
+
 [submodule "paparazzi"]
 	path = paparazzi
-	url = /home/kenni/Autonomous_Drones_and_Object_Recognition/paparazzi/
+	url = https://github.com/Alras16/Autonomous_Drones_and_Object_Recognition.git
